@@ -8,4 +8,6 @@ links:
     collection: example-folder
   - title: Test
     url: https:/google.sg/act/ha1954
-    sublinks: []
+    sublinks:
+      - title: RTes
+        url: https://google.sg/act/ha1954
